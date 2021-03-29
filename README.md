@@ -17,7 +17,7 @@ In order to focus on helpful reviews, our team filtered on rows that have at lea
 
 The image below shows the output results detailed above: 
 
-<p align="left"> <img src="/Resources/Results.png" width="500"> </p>
+<p align="left"> <img src="/Resources/Results.PNG" width="500"> </p>
 
 ## Summary
 
